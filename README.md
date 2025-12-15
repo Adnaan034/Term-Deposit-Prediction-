@@ -60,6 +60,9 @@ Given historical marketing campaign data, predict whether a customer will subscr
 - Impact of campaign duration
 - Effect of repeated contacts on customer response
 
+---<img width="1111" height="628" alt="Image" src="https://github.com/user-attachments/assets/282d6140-d83a-4b64-a5ee-90bd63d8831d" />
+
+
 ### 4. Model Development
 - Logistic Regression (baseline)
 - Decision Tree Classifier
@@ -71,7 +74,10 @@ Given historical marketing campaign data, predict whether a customer will subscr
 - F1-score
 - Confusion Matrix
 
----
+---<img width="1485" height="680" alt="Image" src="https://github.com/user-attachments/assets/18ff4c10-a445-4cea-b004-6c4970f0fbeb" />
+
+- <img width="1106" height="667" alt="Image" src="https://github.com/user-attachments/assets/edb68d23-5c8f-4a7f-a41d-91881a31beef" />
+
 
 ## Key Business Insights
 - **Campaign duration** is the strongest predictor of subscription
@@ -81,7 +87,7 @@ Given historical marketing campaign data, predict whether a customer will subscr
 
 These insights can directly support **marketing strategy optimization** in FinTech firms.
 
----
+
 
 ## Tools & Technologies
 - **Python**
